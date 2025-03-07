@@ -1,2 +1,2 @@
-gt 10 pro
+hon 40 pro 5g
 # turbo-octo-happiness
